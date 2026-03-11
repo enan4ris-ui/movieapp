@@ -3,7 +3,7 @@ import Footertitle from "../_icons/Footertitle";
 
 export const Footer = () => {
   return (
-    <div className="bg-[#4338ca] w-<fraction> min-h-[280px] pt-20 pb-20 flex gap-12 pl-16 pr-16 justify-between">
+    <div className="bg-[#4338ca] p-30 w-<fraction> min-h-[280px] pt-20 pb-20 flex gap-12 pl-16 pr-16 justify-between">
       <div>
         <div className="w-[18px] h-[19px] flex gap-1 items-center">
           <div>
